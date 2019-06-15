@@ -1,0 +1,4 @@
+I am going to work just online.
+fork, modify, commit my modification in new branch, then sending Pull request to Rick.
+
+this is a new file. it is as modification I heve doen.
